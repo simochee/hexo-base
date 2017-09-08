@@ -1,0 +1,6 @@
+[submodule "source"]
+	path = source
+	url = https://github.com/simochee/hexo-post-source.git
+[submodule "themes/mytheme"]
+	path = themes/mytheme
+	url = https://github.com/simochee/hexo-theme-v1.git
